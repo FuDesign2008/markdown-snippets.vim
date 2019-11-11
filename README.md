@@ -1,2 +1,3 @@
 # markdown-snippets.vim
-Markdown snippets for me 
+
+Markdown snippets for me
